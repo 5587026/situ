@@ -5,6 +5,3 @@ Situ uses formal logic to structure sentences.
 
 Situ does not use verbs, but rather expresses relationships between the noun phrases making up the sentence by a *relational*, which defines the relationship by using semantic primes.
 
-For example:
-> siu lin kiro an
-
