@@ -1,0 +1,14 @@
+The relational system of Situ shows the relations between the arguments of a sentence. These function in the same way as cases .
+
+There are eight relationals:
+
+| Relational | Equivalent    | Function                                         | Example                                 |
+|:----------:|---------------|--------------------------------------------------|-----------------------------------------|
+|            | Nominative    | indicates the subject                            | We went to the store.                   |
+|            | Oblique       | indicates the object                             | We went to the store.                   |
+|            | Interrogative | indicates a question                             | Where is John?                          |
+|            | Ablative      | indicates cause                                  | He needed food so he went to the store. |
+|            | Genetive      | indicates the possessor of another noun          | John's food.                            |
+|            | Vocative      | indicates an addressee                           | Hi, John!                               |
+|            | Locative      | indicates a location                             | John is in China.                       |
+|            | Instrumental  | indicates an object used in performing an action | John wrote this letter with his pen.    |
