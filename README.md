@@ -10,6 +10,6 @@ Situ is currently under construction.
 # Contents:
 * [Situ Intro](https://github.com/5587026/situ/blob/master/intro)
 * [Situ Phonology](https://github.com/5587026/situ/blob/master/phonology)
-* [Situ Phonotactics](https://github.com/5587026/situ/blob/master/phonology)
+* [Situ Phonotactics](https://github.com/5587026/situ/blob/master/phonotactics)
 * [Situ Relationals](https://github.com/5587026/situ/blob/master/relationals)
 * [Situ Vocabulary](https://github.com/5587026/situ/blob/master/vocabulary)
